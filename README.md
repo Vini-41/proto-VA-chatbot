@@ -1,5 +1,4 @@
-# Training a LLM using Custom Data
-## Description
+# Description
 Test and evaluate the viability of using OpenAI's fine-tuning API for Government use cases using real-world Government documents. The data pertains to the M28C Glossary of Terms, PART I Overview, PART II Office Administration, PART III Program Administration, PART IV Application, Evaluation, and Planning, PART V Case Management, PART VI Employment Services, PART VII Other Benefits Case Management, and PART VIII Program Oversight in the Veteran Readiness and Employment (VR&E) program. Found here: https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000143195/M28C-Table-of-Contents%3FarticleViewContext=article_view_related_article
 
 ## Directory Structure
